@@ -2,7 +2,7 @@
 
 namespace lucidtaz\yii2scssphp;
 
-use Leafo\ScssPhp\Compiler;
+use ScssPhp\ScssPhp\Compiler;
 use lucidtaz\yii2scssphp\storage\FsStorage;
 use lucidtaz\yii2scssphp\storage\Storage;
 use RuntimeException;
